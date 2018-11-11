@@ -1,8 +1,6 @@
 # Ehre
 
 Clara Hätzlerin
-Zur Navigation springen
-Zur Suche springen
 
 Clara Hätzlerin (* um 1430 in Augsburg; † vermutlich 1476 oder im darauf folgenden Jahr) war eine Lohnschreiberin des 15. Jahrhunderts. Sie ist die einzige urkundlich bezeugte Frau, die gegen Bezahlung handschriftliche Kopien deutscher Kodizes herstellte. Nachweisbar ist sie in Augsburger Steuerbüchern zwischen 1452 und 1476.[1]
 Inhaltsverzeichnis
