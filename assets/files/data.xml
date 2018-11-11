@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:dataRoot xmlns:ns2="de.saufgenossen.ehre">
+    <genossen>
+        <genosse>
+            <id>0</id>
+            <name>Luis</name>
+            <rank>0</rank>
+            <ehre>4</ehre>
+            <pb>luis1</pb>
+        </genosse>
+        <genosse>
+            <id>1</id>
+            <name>Fabi</name>
+            <rank>0</rank>
+            <ehre>2</ehre>
+            <pb>luis2</pb>
+        </genosse>
+    </genossen>
+    
+    <ehrungen>
+        <ehrung>
+            <name>Luis</name>
+            <value>5</value>
+            <timestamp>2018-10-12 12:30:00</timestamp>
+            <upvote>2</upvote>
+            <downvote>2</downvote>
+        </ehrung>
+        <ehrung>
+            <name>Luis</name>
+            <value>5</value>
+            <timestamp>2018-10-12 12:30:00</timestamp>
+            <upvote>2</upvote>
+            <downvote>2</downvote>
+        </ehrung>
+
+    </ehrungen>
+</ns2:dataRoot>
